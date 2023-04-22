@@ -15,7 +15,7 @@
 ```javascript
 const caleb = {
    name: 'Caleb Bolaños Ramos',
-   age: 21,
+   age: 22,
    education: ['ESCOM IPN', 'Cecyt 9 IPN'],
    development: {
      frontend: ['JavaScript', 'Vue', 'HTML', 'CSS', 'PWA'],
