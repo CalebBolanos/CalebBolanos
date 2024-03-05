@@ -26,7 +26,7 @@ const caleb = {
 }
 //yeah, my favorite programming language is JavaScript (o^-')b
 ```
-<li>👨‍💻 I’m currently in an Internship at IBM as an <strong>Application Devoloper</strong>, in <strong>Cognitive Computing</strong>.</li>
+<li>👨‍💻 I’m currently in an Internship at IBM as an <strong>Application Developer</strong>, in <strong>Cognitive Computing</strong>.</li>
 <li>🧐 Learning about <strong>Python</strong>, <strong>GenAI</strong>, and a bit of <strong>Data Science</strong>.</li>
 <li>🚀 I really enjoy developing  <strong>PWA's</strong> using <strong>Vue</strong>, and recently, I've been using <strong>Foundational Models</strong> to build GenAI apps using <a href="https://www.ibm.com/watsonx" target="_blank">Watsonx</a></li>
 <li>📲 Check out my <a href="https://caleb-bolanos-ramos.web.app/" target="_blank">personal website</a>.</li>
