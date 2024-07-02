@@ -1,5 +1,5 @@
 <h1 align="center">¡Hola! Welcome to my profile <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/></h1>
-<h4 align="center">I'm Caleb, a computer systems student from Mexico 🇲🇽. I love coming up with ideas and bringing them to life by coding!</h4>
+<h4 align="center">I'm Caleb, a computer systems engineer based in Mexico 🇲🇽 with hands-on experience in developing web and AI applications. Proficient in Java, JavaScript, Python, and other languages.  Passionate about integrating AI to enhance user experiences and I love coming up with ideas and bringing them to life through coding!</h4>
 <div align="center">
 
   [![Mail Badge](https://img.shields.io/badge/Mail-0078D4.svg?style=flat&logo=Microsoft-Outlook&logoColor=white)](mailto:bolanos.c@hotmail.com)
